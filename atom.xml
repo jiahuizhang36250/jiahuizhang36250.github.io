@@ -2,14 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jiahuizhang36250.github.io</id>
     <title>Gridea</title>
-    <updated>2020-07-13T06:38:36.925Z</updated>
+    <updated>2021-01-10T11:04:46.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jiahuizhang36250.github.io"/>
     <link rel="self" href="https://jiahuizhang36250.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://jiahuizhang36250.github.io/images/avatar.png</logo>
     <icon>https://jiahuizhang36250.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[图片测试]]></title>
+        <id>https://jiahuizhang36250.github.io/post/tu-pian-ce-shi/</id>
+        <link href="https://jiahuizhang36250.github.io/post/tu-pian-ce-shi/">
+        </link>
+        <updated>2021-01-10T11:03:51.000Z</updated>
+        <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://jiahuizhang36250.github.io/post-images/1610276659795.jpeg" alt="" loading="lazy"></figure>
+]]></summary>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://jiahuizhang36250.github.io/post-images/1610276659795.jpeg" alt="" loading="lazy"></figure>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://jiahuizhang36250.github.io/post/hello-gridea/</id>
